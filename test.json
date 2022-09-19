@@ -15,5 +15,18 @@
         "Nazar",
         "Pavlo",
         "Igor"
+    ],
+    "slides": [{
+            "title": "Wake up, Neo",
+            "type": "all"
+        },
+        {
+            "items": [
+                "Nothing alse matters",
+                "What you gonna do?"
+            ],
+            "title": "Overview",
+            "type": "all"
+        }
     ]
 }
