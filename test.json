@@ -20,9 +20,7 @@
             "description": "Description 2"
         },
         {
-            "image": "https://cdn.pixabay.com/photo/2023/01/27/06/17/pheasant-7747830_960_720.jpg",
-            "title": "Title 3",
-            "description": "Description 3"
+            "title": "Title 3"
         }
     ],
     "workers": [
