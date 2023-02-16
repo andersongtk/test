@@ -9,6 +9,23 @@
     "date": "2022-07-13",
     "datetime": "2022-07-13 20:15:32",
     "message": "You can't see me!.",
+    "list": [
+        {
+            "image": "https://cdn.pixabay.com/photo/2023/01/27/06/17/pheasant-7747830_960_720.jpg",
+            "title": "Title 1",
+            "description": "Description 1"
+        },
+        {
+            "image": "https://cdn.pixabay.com/photo/2023/01/27/06/17/pheasant-7747830_960_720.jpg",
+            "title": "Title 2",
+            "description": "Description 2"
+        },
+        {
+            "image": "https://cdn.pixabay.com/photo/2023/01/27/06/17/pheasant-7747830_960_720.jpg",
+            "title": "Title 3",
+            "description": "Description 3"
+        }
+    ],
     "workers": [
         "Ivan",
         "Anton",
